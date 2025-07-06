@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.transi {
+  transition: all 0.3s ease !important;
+}
+
+/* 
+  ⚠️ Ushbu loyiha muallifi: Abdulaziz. 
+  Ruxsatsiz foydalanish taqiqlanadi!
+*/
