@@ -1,5 +1,4 @@
-import React from 'react'
-import { UserType } from '../../../types/HomeTypes'
+
 import { useQuery } from '@tanstack/react-query';
 import axios from 'axios';
 import ProductCard from '../../components/ProductCard';
