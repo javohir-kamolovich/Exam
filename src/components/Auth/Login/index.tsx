@@ -128,10 +128,6 @@ const Login: FC<LoginProps> = ({ setIsModalOpen, setIsLogged }) => {
             <span className="text-sm font-medium text-gray-700">Login with Google</span>
           </button>
 
-          <button type="button" className="w-full cursor-not-allowed flex items-center gap-3 border border-gray-300 rounded-md py-2 px-4 hover:bg-gray-100 transition" >
-            <QrCode />
-            <span className="text-sm font-medium text-gray-700">Login with Qr Code</span>
-          </button>
         </div>
       </form>
     </div>
